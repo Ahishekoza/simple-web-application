@@ -1,0 +1,15 @@
+{
+  "name": "simple-web-application",
+  "version": "1.0.0",
+  "description": "Creating a simple web application and then containerining it ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Abhishek Oza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
