@@ -11,6 +11,6 @@ app.get('/home',(req,res)=>{
     })
 })
 
-app.listen(3306,()=>{
-    console.log('listening on port 3306');
+app.listen(3006,()=>{
+    console.log(`listening on port ${3006}`);
 })
